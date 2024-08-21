@@ -593,7 +593,7 @@ span {
     align-items: center;
     justify-content: center;
   }
-  .btn {
+  #resume-btn {
     margin-left: 42%;
   }
   .about {
@@ -649,7 +649,7 @@ span {
   a.about-img img {
     width: 90vw;
   }
-  .btn {
+  #resume-btn {
     margin-left: 35%;
   }
 
